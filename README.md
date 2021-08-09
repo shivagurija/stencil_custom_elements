@@ -1,3 +1,8 @@
+host-app is the main application(Angular) which hosts multiple micro-frontends mentioned below
+ang-app: Angular app built as custom angular-element and embedded in host-app
+rating-stencil-component: Stencil component built as web-component and dist output is embedded in host-app
+rating-stencil-component2: 2 Stencil web-components are built as web-component and it is embedded in host-app
+
 Different sources used -
 # Stencil
 
